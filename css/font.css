@@ -1,0 +1,9 @@
+@font-fece{
+	font-family: 'StarLovePencil';
+	font-display: swap;
+	src: url('../font/StarLovePencil-宅在家自動筆-20200605.ttf') format("truetype");
+}
+
+body {
+	font-family: 'StarLovePencil';
+}
